@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">epoxy-example</string>
+    <string name="categories">Categories</string>
+    <string name="headers">Headers</string>
+</resources>
